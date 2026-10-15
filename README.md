@@ -1,10 +1,6 @@
 # AayusheeDhaduk-IndustrialTransportationApp
 ## IndusMove Industrial Transportation & Fleet Telemetry System
 
-[![GitHub Pages](https://img.shields.io/badge/deployment-GitHub%20Pages-brightgreen?logo=github)](https://aayusheedhaduk.github.io/AayusheeDhaduk-IndustrialTransportationApp/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Status: Production](https://img.shields.io/badge/Status-Production%20Ready-success)](#)
-
 > **Live Application URL:** [https://aayusheedhaduk.github.io/AayusheeDhaduk-IndustrialTransportationApp/](https://aayusheedhaduk.github.io/AayusheeDhaduk-IndustrialTransportationApp/)
 
 ---
