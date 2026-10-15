@@ -13,13 +13,13 @@
 - **Phone:** +91 99241 52650
 - **Directorate Location:** Porbandar, Gujarat, India
 - **LinkedIn:** [Aayushee Dhaduk LinkedIn Profile](https://www.linkedin.com/in/aayushee-dhaduk-223ba737b)
-- **Industry Category (PDF Step 1):** Industrial Transportation Service (Heavy Haulage, High-Tonnage Multiaxle Transit & Specialized Project Cargo)
+- **Industry Category:** Industrial Transportation Service (Heavy Haulage, High-Tonnage Multiaxle Transit & Specialized Project Cargo)
 
 IndusMove is an enterprise-grade digital industrial transportation platform engineered for heavy machinery, over-dimensional cargo (ODC), plant assemblies, and scheduled industrial contract freight across the Western Freight Corridor (Porbandar, Surat, Ahmedabad, Vadodara, and Mumbai).
 
 ---
 
-## 2. Five Mandatory Presentation Answers
+## 2. Five Mandatory Questions & Answers
 
 ### 1. What is your business?
 IndusMove is a specialized B2B **Industrial Transportation & Heavy Haulage Service** providing engineered multi-axle road transportation for oversized industrial machinery, power turbines, precast assemblies, and critical infrastructure equipment with dedicated civil pilot escort convoys and 24/7 central control room oversight.
@@ -77,4 +77,3 @@ AayusheeDhaduk-IndustrialTransportationApp/
 - **Markup:** HTML5 (Semantic landmarks, WAI-ARIA accessible dialogs & custom listboxes)
 - **Styles:** Modern CSS3 (CSS Variables, Flexbox, CSS Grid, Glassmorphism, 3D Perspective Grid, Keyframe Animations)
 - **Scripting:** Vanilla ECMAScript (Zero third-party library dependencies, HTML5 Canvas 2D telemetry radar)
-- **Deployment:** GitHub Pages (Static Web Hosting)
